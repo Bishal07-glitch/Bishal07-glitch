@@ -12,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=bishal07-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="bishal07-glitch" /> 
 </p>
 
-- 🔭 I’m currently working on **My project**
-- 🌱 I’m currently learning **React**
-- 📫 How to reach me **kunwarbishal22@gmail.com**
-- ⚡ Fun fact **I am funny**
+- 🔭 Currently working on **Web Development  Projects**
+- 🌱 Learning **React.js & Next.js**
+- 📩 Reach me at **kunwarbishal22@gmail.com**
+- ⚡ Fun Fact: **I love solving coding challenges & experimenting with tech!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
