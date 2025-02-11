@@ -61,8 +61,14 @@
   </a>  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal07-glitch&show_icons=true&locale=en&layout=compact" alt="bishal07-glitch" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal07-glitch&show_icons=true&locale=en&layout=compact" alt="bishal07-glitch" />
+  
+  <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishal07-glitch&show_icons=true&locale=en" alt="bishal07-glitch" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bishal07-glitch&show_icons=true&locale=en" alt="bishal07-glitch" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal07-glitch&" alt="bishal07-glitch" /></p>
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal07-glitch&" alt="bishal07-glitch" />
+</div>
